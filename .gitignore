@@ -1,0 +1,21 @@
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Cordova NO-NOs
+platforms/*
+!platforms/README.md
+plugins/*
+!plugins/README.md
+
+# IDE Bad Stuff
+.idea
+
