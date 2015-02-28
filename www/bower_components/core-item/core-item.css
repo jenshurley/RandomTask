@@ -11,7 +11,8 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
   display: block;
   position: relative;
   min-height: 40px;
-  white-space: nowrap;
+  /*white-space: nowrap;*/
+  color: #212121;
 }
 
 :host(.font-scalable) {

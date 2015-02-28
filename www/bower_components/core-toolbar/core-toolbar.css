@@ -18,7 +18,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
   /* typography */
   font-size: 1.3em;
   /* background */
-  background-color: #CFD8DC;
+  background-color: #009688;
 }
 
 :host(.animate) {
@@ -97,7 +97,7 @@ polyfill-next-selector { content: '.toolbar-tools > *:not([disabled])'; }
 polyfill-next-selector { content: '.toolbar-tools > *'; }
 ::content > * {
   margin: 0 8px;
-}
+ }
 
 /* misc helpers */
 polyfill-next-selector { content: '.toolbar-tools > .fit'; }
